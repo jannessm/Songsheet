@@ -1,12 +1,7 @@
 # Songsheet
-PDF Generator for Bandsheets
+This project highlights all important aspects about the <code>.st</code> format and how to write a file like it.
 
 Version: 1.1.0
-
-This package makes Songsheet as easy as it could in 2 easy steps:
-
- - Create a file <code> song.st </code> with a simple text editor
- - init a <code> songsheetGen </code> and run your python script
  
 ### Overview
 - [Tutorial](#tut)
