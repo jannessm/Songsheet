@@ -161,6 +161,8 @@ To use some blocks a few times add an order:
  ## Goals for future Versions
  
   - other layouts and fonts
+  - annotation-cells title
+  - song info (bpm, artist, ...)
   
   Please contact me for further Ideas ;).
   
