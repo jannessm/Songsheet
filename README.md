@@ -163,6 +163,9 @@ To use some blocks a few times add an order:
   - other layouts and fonts
   - annotation-cells title
   - song info (bpm, artist, ...)
+  - created with songsheet footer 
+  - page numbers
+  - band logo support
   
   Please contact me for further Ideas ;).
   
