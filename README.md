@@ -1,7 +1,7 @@
 # Songsheet
 This project highlights all important aspects about the <code>.st</code> format and how to write a file like it.
 
-Version: 1.1.0
+Version: 1.3.0
  
 ### Overview
 - [Tutorial](#tut)
@@ -118,9 +118,10 @@ To use some blocks a few times add an order:
  <a name="title"></a>
  
  
-#### Title
+#### Title, Artist, BPM, Bookreferences
+All informations can be written in one block. They are separated by ```;```. Books can be listed with ```,```. 
     
-    [title: Wonderwall]
+    [title: Wonderwall; bpm: 100; artist: Oasis; books: songbook 1-40, songbook2 no.4]
  <a name="order"></a>
  
  
@@ -162,9 +163,6 @@ To use some blocks a few times add an order:
  
   - other layouts and fonts
   - annotation-cells title
-  - song info (bpm, artist, ...)
-  - created with songsheet footer 
-  - page numbers
   - band logo support
   
   Please contact me for further Ideas ;).
